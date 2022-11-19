@@ -1,0 +1,15 @@
+The main point of our app is its simplicity.
+Compared to other habit-tracking apps on the market such as Habitshare, Habitica, and StickK, our app is designed to help cultivate
+new habits individually or with friends and family while providing a reward system to motivate users to hit the 60 days mark. 
+Habitica is an RPG video game-inspired app that treats its real life like a game. 
+To motivate users, one’s customized avatar levels up when a task is completed. One can also unlock in-game features such as battle armor and quests.
+Like our app, one can be joined by friends to complete quests and missions. Habitica stores data persistently in a database management system using MongoDB.
+The architecture is structured nicely into different layers with a single page application for the client side and backend services accessible through an API. 
+Habitshare is a habit tracker that also doubles as a social network. 
+It has messaging options that enable you to talk and communicate with people you know. With Habitshare, your individual goals transform into meaningful team efforts. 
+However, Habitshare doesn’t feature scheduling tasks monthly. 
+StickK is a habit-tracking app that influences behavior change through loss aversion and accountability. 
+Users are required to make a commitment contract and set a costly deadline. 
+Users bet money on themselves and can assign someone to check the data to ensure that one is on the right track to reaching their goals. 
+if they fail in their goals, it costs them money. 
+This app has more than 10 communities with like-minded goal setters to interact, offer support, and share best practices. 
